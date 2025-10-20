@@ -21,7 +21,7 @@
 ```shell script
 pkg install golang
 apt install git
-git clone https://github.com/kimcoder21/ddos.git
+git clone https://github.com/Lozllll/NamDoS.git
 cd NamDoS
 go run namdos.go --site https://domain.com/
 ```
