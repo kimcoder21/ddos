@@ -45,7 +45,7 @@ cd ~/namdos-pro
 
 # Download NamDoS Pro
 echo "📥 Downloading NamDoS Pro..."
-curl -O https://raw.githubusercontent.com/naem021/ddos/main/namdos_pro.go
+curl -O https://raw.githubusercontent.com/kimcoder21/ddos/main/namdos_pro.go
 
 # Make executable
 echo "🔧 Making executable..."

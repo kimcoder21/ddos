@@ -1,4 +1,4 @@
-module namdos_pro
+module github.com/kimcoder21/ddos
 
 go 1.21
 

@@ -1,9 +1,9 @@
 # 💀 NamDoS Pro v2.0
 
-[![GitHub stars](https://img.shields.io/github/stars/naem021/ddos.svg)](https://github.com/naem021/ddos/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/naem021/ddos.svg)](https://github.com/naem021/ddos/network)
-[![GitHub issues](https://img.shields.io/github/issues/naem021/ddos.svg)](https://github.com/naem021/ddos/issues)
-[![GitHub license](https://img.shields.io/github/license/naem021/ddos.svg)](https://github.com/naem021/ddos/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/kimcoder21/ddos.svg)](https://github.com/kimcoder21/ddos/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/kimcoder21/ddos.svg)](https://github.com/kimcoder21/ddos/network)
+[![GitHub issues](https://img.shields.io/github/issues/kimcoder21/ddos.svg)](https://github.com/kimcoder21/ddos/issues)
+[![GitHub license](https://img.shields.io/github/license/kimcoder21/ddos.svg)](https://github.com/kimcoder21/ddos/blob/main/LICENSE)
 
 **Advanced DDoS Attack Tool written in Golang for Termux Android**
 
@@ -24,7 +24,7 @@ Use only on:
 
 ### One-Command Installation
 ```bash
-curl -sSL https://raw.githubusercontent.com/naem021/ddos/main/install_namdos_pro.sh | bash
+curl -sSL https://raw.githubusercontent.com/kimcoder21/ddos/main/install_namdos_pro.sh | bash
 ```
 
 ### Manual Installation
@@ -39,7 +39,7 @@ pkg install golang -y
 pkg install git -y
 
 # Download NamDoS Pro
-curl -O https://raw.githubusercontent.com/naem021/ddos/main/namdos_pro.go
+curl -O https://raw.githubusercontent.com/kimcoder21/ddos/main/namdos_pro.go
 
 # Make executable
 chmod +x namdos_pro.go
@@ -266,7 +266,7 @@ ddos/
 
 ```bash
 # Download latest version
-curl -O https://raw.githubusercontent.com/naem021/ddos/main/namdos_pro.go
+curl -O https://raw.githubusercontent.com/kimcoder21/ddos/main/namdos_pro.go
 
 # Make executable
 chmod +x namdos_pro.go
